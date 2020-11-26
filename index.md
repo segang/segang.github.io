@@ -9,7 +9,7 @@
 <br><br><br><br>
 
 *로고 이미지 클릭시, 유튜브!*<br>
-[![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")](https://www.youtube.com/watch?v=vtYmCCLIi8A)
+[![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")](https://www.youtube.com/channel/UClkvy77vJXOmdub_qXVujSg)
 
 <!-- Coloring text using diff..but it's not good ways i use
 ```diff
