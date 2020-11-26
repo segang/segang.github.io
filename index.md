@@ -1,4 +1,4 @@
-## Segang Corp. <img align="right" width="100" height="100" src="segang_logo.jpg">
+## Segang Corp. <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 You can use the [editor on GitHub](https://github.com/segang/segang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
