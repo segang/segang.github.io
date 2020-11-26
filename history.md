@@ -20,3 +20,21 @@
 *2020.08.28. 부산테크노파크 - 드론실증사업 수행
 *2020.10.16. [디자인출원] 수중 추진장치
 *2020.11.05. 동남권메가시티창업아이디어경진대회 우수상
+
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
