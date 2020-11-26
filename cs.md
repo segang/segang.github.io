@@ -1,3 +1,8 @@
+[<img align="left" width="300" height="200" src="segang_logo.jpg">](index.md)
+
+# [Segang Corp.](index.md)
+<br><br><br><br>
+
 <div id="disqus_thread"></div>
 <script>
     /**
