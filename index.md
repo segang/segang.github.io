@@ -6,7 +6,7 @@
 [**회사 소개**](history.md)
 <br><br><br>
 
-Solarized dark             |  Solarized Ocean
+  
 -------------------------|-------------------------
 ![](orca_img.png)  |  ![](orca_text.png)
 
