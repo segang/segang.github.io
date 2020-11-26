@@ -6,9 +6,7 @@
 
 
 
-### <img align="center" width="300" height="200" src="orca_text.png">
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project Orca-6
 
 ```markdown
 Syntax highlighted code block
