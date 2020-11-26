@@ -1,4 +1,4 @@
-<img align="left" width="300" height="200" src="segang_logo.jpg">
+<img align="left" width="300" height="200" src="segang_logo.jpg" href="index.md">
 
 # Segang Corp. 
 
