@@ -3,4 +3,4 @@
 # [Segang Corp.](index.md)
 <br><br><br><br>
 
-# Contact Us &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; segangcorp@gmail.com
+## Contact Us &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; segangcorp@gmail.com
