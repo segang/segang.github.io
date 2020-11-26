@@ -1,6 +1,7 @@
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp.
+[KOR]
 <br>
 
 [**스토리**](history.md)[**제품**](history.md)[**인재영입**](history.md)[**고객지원**](history.md) [**KOR**]
