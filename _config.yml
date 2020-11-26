@@ -3,18 +3,6 @@ title:          null
 owner:          Segang Corp.
 email:          segangcorp@gmail.com
 
-description: 
-# blog home에 표시될 blog에 대한 전반적인 설명.
-
-cover: assets/built/images/blog-cover1.png
-# blog home에 표시될 blog cover image.
-
-logo:           orca_img.png
-
-favicon: orca_img.png
-
-
-
 # navigation: True
 # subscribers: True
 
