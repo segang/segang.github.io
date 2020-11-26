@@ -1,7 +1,7 @@
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp.
-<br><br>
+<br>
 [**회사 소개**](history.md)
 <br><br><br>
 
