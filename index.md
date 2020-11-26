@@ -3,8 +3,10 @@
 ## Segang Corp. 
 
 1번 구역
-```주석입니다```
-### Markdown
+
+
+
+### <img align="center" width="300" height="200" src="orca_text.png">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
