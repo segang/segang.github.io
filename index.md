@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
 #header-BG {
   height: 100%;
   background: red;
