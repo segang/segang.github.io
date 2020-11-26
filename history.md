@@ -1,7 +1,7 @@
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp. 
-<br><br><br>
+<br><br><br><br>
 ## 연혁
 <br>
 2014.08.07. 창업
