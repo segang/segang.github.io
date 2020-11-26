@@ -1,4 +1,8 @@
-# 연혁
+<img align="left" width="300" height="200" src="segang_logo.jpg">
+
+# Segang Corp. 
+<br><br><br>
+## 연혁
 <br>
 2014.08.07. 창업
 2014.12.01. (주)엔티렉스 온라인매장 제품등록 및 판매
