@@ -6,7 +6,8 @@
 [**회사 소개**](history.md)
 <br><br><br><br><br>
 
-# 시연영상  [![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")](https://www.youtube.com/watch?v=vtYmCCLIi8A)
+# 클릭시, 유튜브링크!<br>
+[![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")](https://www.youtube.com/watch?v=vtYmCCLIi8A)
 
 <br><br><br>
 ```markdown
