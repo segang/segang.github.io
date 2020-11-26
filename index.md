@@ -5,9 +5,9 @@
 
 [**회사 소개**](history.md)
 <br><br><br>
-
-<img align="left" width="50%" height="200" src="orca_img.png">
-<img align="right" width="50%" height="200" src="orca_text.png">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 <br><br><br><br><br><br>
 ```markdown
