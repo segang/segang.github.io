@@ -5,8 +5,9 @@
 
 [**회사 소개**](history.md)
 <br><br><br>
+
 Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+-------------------------|-------------------------
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 <br><br><br><br><br><br>
