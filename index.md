@@ -3,12 +3,11 @@
 # Segang Corp. 
 
 1번 구역
-<br>
-[회사 소개](history.md)  | [제품 소개](product.md)<br>
------------------------ | ----------------------<br>
-Content from cell 1 | Content from cell 2<br>
-Content in the first column | Content in the second column<br>
 <br><br>
+
+[**회사 소개**](history.md)  | [**제품 소개**](product.md)
+
+<br><br><br>
 ### Project Orca-6
 <br><br>
 ```markdown
