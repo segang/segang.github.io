@@ -1,3 +1,8 @@
+#header-BG {
+  height: 100%;
+  background: red;
+}
+<div id="header-BG"></div>
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp.
