@@ -1,7 +1,7 @@
 <head>
     
 [<img align="left" width="300" height="200" src="segang_logo.jpg">](index.md)
-<br>
+
 
 # [Segang Corp.](index.md)
 <br><br><br><br>
