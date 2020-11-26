@@ -3,7 +3,11 @@
 # Segang Corp. 
 
 1번 구역
-
+[회사 소개](history.md) | [제품 소개](product.md) |
+------------ | ------------- |
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+<br><br>
 ### Project Orca-6
 <br><br>
 ```markdown
