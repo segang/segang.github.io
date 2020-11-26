@@ -1,16 +1,8 @@
-<head>
-    
 [<img align="left" width="300" height="200" src="segang_logo.jpg">](index.md)
-
 
 # [Segang Corp.](index.md)
 
 
-<br><br><br><br>
-
-</head>
-<body>
-<br><br><br>
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -32,4 +24,3 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 <script id="dsq-count-scr" src="//segang.disqus.com/count.js" async></script>
-</body>
