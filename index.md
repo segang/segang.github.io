@@ -1,4 +1,4 @@
-<a href="index.md"><img align="left" width="300" height="200" src="segang_logo.jpg"></a>
+[<img align="left" width="300" height="200" src="segang_logo.jpg">](index.md)
 
 # Segang Corp. 
 
