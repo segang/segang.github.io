@@ -1,16 +1,3 @@
-<body>
-body {
-  margin: 0;
-  height: 100%;
-}
-body {
-  min-height: 100%;
-}
-#header-BG {
-  height: 100%;
-  background: red;
-}
-<div id="header-BG"></div>
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp.
