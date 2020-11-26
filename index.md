@@ -1,3 +1,4 @@
+<div style="height:50px; background-color: ivory">ivory배경색이 지정된 예제</div>
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp.
