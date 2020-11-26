@@ -2,6 +2,7 @@
 
 # Segang Corp.
 <br>
+
 [**회사 소개**](history.md)
 <br><br><br>
 
