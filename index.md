@@ -1,9 +1,7 @@
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp.
-<br>
-
-[**회사 소개**](history.md)
+> [**회사 소개**](history.md)
 <br><br><br>
 
 [![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")](https://www.youtube.com/watch?v=vtYmCCLIi8A)
