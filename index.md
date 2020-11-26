@@ -1,9 +1,5 @@
-## Segang Corp. | <img src="segang_logo.jpg" width="100" height="100">
-----------------|-----------------------------------------------------
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+## Segang Corp. <img align="right" width="100" height="100" src="segang_logo.jpg">
+
 You can use the [editor on GitHub](https://github.com/segang/segang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
