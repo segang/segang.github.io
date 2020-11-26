@@ -14,6 +14,9 @@ Solarized dark             |  Solarized Ocean
 
 ![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")
 
+
+<img src="orca_img.png" width="425"/> <img src="orca_text.png" width="425"/> 
+
 <br><br><br><br><br><br>
 ```markdown
 Syntax highlighted code block
