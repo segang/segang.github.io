@@ -3,10 +3,11 @@
 # Segang Corp.
 <br>
 
-[**회사 소개**](history.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**제품 소개**](product.md)
+[**회사 소개**](history.md)
 <br><br><br>
 
-### Project Orca-6
+<img align="left" width="300" height="200" src="orca_img.png">
+<img align="right" width="300" height="200" src="orca_text.png">
 <br><br>
 ```markdown
 Syntax highlighted code block
