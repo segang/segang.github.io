@@ -13,15 +13,25 @@ logo:           orca_img.png
 
 favicon: orca_img.png
 
+
+
 # navigation: True
 # subscribers: True
 
 # Disqus
-# disqus: True
-# disqus_shortname: xxxxxxxx
+ disqus: True
+ disqus_shortname: segang
 # disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
 # disqus를 이용할 것인지 여부와 만약 사용하면
 # disqus shortname을 입력 ( disqus username이 아님 )
+# ---
+# layout: default
+# comments: true
+# other options
+# ---
+# In between a {% if page.comments %} and a {% endif %} tag, copy and paste the Universal Embed Code in the appropriate template where you'd like Disqus to load.
+
+
 
 
 # Google Analytics
