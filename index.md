@@ -3,7 +3,7 @@
 ## Segang Corp. 
 
 1번 구역
-```주석입니다
+```주석입니다```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
