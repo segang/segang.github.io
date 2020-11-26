@@ -6,11 +6,6 @@
 
 [**회사 소개**](history.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**제품 소개**](product.md)
 
-```<pre>
-hello, this is
-   just an     example
-```</pre>
-
 <br><br><br>
 ### Project Orca-6
 <br><br>
