@@ -10,6 +10,10 @@ Solarized dark             |  Solarized Ocean
 -------------------------|-------------------------
 ![](orca_img.png)  |  ![](orca_text.png)
 
+<br><br><br>
+
+![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")
+
 <br><br><br><br><br><br>
 ```markdown
 Syntax highlighted code block
