@@ -1,12 +1,11 @@
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
-# Segang Corp. 
-
+# Segang Corp.
 <br>
 
 [**회사 소개**](history.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**제품 소개**](product.md)
-
 <br><br><br>
+
 ### Project Orca-6
 <br><br>
 ```markdown
