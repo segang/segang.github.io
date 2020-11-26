@@ -8,7 +8,7 @@
 
 Solarized dark             |  Solarized Ocean
 -------------------------|-------------------------
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](orca_img.png)  |  ![](orca_text.png)
 
 <br><br><br><br><br><br>
 ```markdown
