@@ -1,4 +1,5 @@
 <head>
+    
 [<img align="left" width="300" height="200" src="segang_logo.jpg">](index.md)
 
 # [Segang Corp.](index.md)
