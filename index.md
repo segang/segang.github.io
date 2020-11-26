@@ -1,4 +1,5 @@
 <img align="left" width="300" height="200" src="segang_logo.jpg">
+
 ## Segang Corp. 
 
 You can use the [editor on GitHub](https://github.com/segang/segang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
