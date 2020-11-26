@@ -3,7 +3,7 @@
 # [Segang Corp.](index.md)
 <br><br><br><br>
 > 회사 연혁
-<br>
+
 * 2014.08.07. 창업
 * 2014.12.01. (주)엔티렉스 온라인매장 제품등록 및 판매
 * 2015.02.06. (주)엘레파츠 온라인매장 제품등록 및 판매
@@ -37,3 +37,11 @@
 
 * 부산기계공업고등학교 -기계과 졸(2006)
 * 한성정밀 - 생산라인
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
