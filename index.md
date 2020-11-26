@@ -3,7 +3,7 @@
 # Segang Corp.
 <br>
 
-[**회사 소개**](history.md)
+[**스토리**](history.md)[**제품**](history.md)[**인재영입**](history.md)[**고객지원**](history.md)[**KOR**](history.md)
 <br><br><br><br><br>
 
 *제품 이미지 클릭시, 유튜브!*<br>
