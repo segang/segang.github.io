@@ -1,12 +1,3 @@
-html,
-body {
-    margin: 0;
-    height: 100%;
-}
-body {
-    background-color: #EEEEEE;
-}
-
 <img align="left" width="300" height="200" src="segang_logo.jpg">
 
 # Segang Corp.
