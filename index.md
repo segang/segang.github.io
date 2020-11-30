@@ -8,7 +8,7 @@
 
 <br><br><br><br>
 
-<img align="center" width="300" height="200" src="sgang_about_img.png">
+<img align="center" width="100%" height="100%" src="sgang_about_img.png">
 
 <!---*로고 이미지 클릭시, 유튜브!*<br>
 [![alt-text-1](orca_img.png "title-1") ![alt-text-2](orca_text.png "title-2")](https://www.youtube.com/channel/UClkvy77vJXOmdub_qXVujSg)
