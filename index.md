@@ -1,4 +1,5 @@
-<center><img align="center" width="300" height="100" src="segang_logo.png"></center> Segang
+<center><img align="center" width="300" height="100" src="segang_logo.png"></center>
+<span style="">Segang</span>
 
 <br><br>
 
