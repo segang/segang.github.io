@@ -5,7 +5,7 @@
 [**회사소개**](history.md) &nbsp;&nbsp;&nbsp;&nbsp; [**제품소개**](product.md) &nbsp;&nbsp;&nbsp;&nbsp; [**인재영입**](hr.md) &nbsp;&nbsp;&nbsp;&nbsp; [**고객지원**](cs.md)
 
 <br><br>
-<center><a href="history.md">회사소개</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="product.md">제품소개</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="hr.md">인재영입</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="cs.md">고객지원</a></center>
+<center><a href="history.md"><b>회사소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="product.md"><strong>제품소개</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="hr.md"><i>인재영입</i></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="cs.md"><em>고객지원</em></a></center>
 
 <!---<br><br><br><br>
 
