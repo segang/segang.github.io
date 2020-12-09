@@ -1,4 +1,4 @@
-[<img align="left" width="300" height="200" src="segang_logo.jpg">](index.md)
+[<img align="left" width="300" height="200" src="segang_logo.png">](index.md)
 
 # [Segang](index.md)
 <br><br><br><br>
