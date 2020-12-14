@@ -1,6 +1,4 @@
-<!--<img align="center" width="300" height="100" src="segang_logo.png"><b>Segang</b><br><br>
-ori
--->
+<img align="center" width="300" height="100" src="segang_logo.png"><br><br>
 
 [**회사소개**](history.md) &nbsp;&nbsp;&nbsp;&nbsp;
 [**제품소개**](product.md) &nbsp;&nbsp;&nbsp;&nbsp;
