@@ -1,7 +1,12 @@
 <center><img align="center" width="300" height="100" src="segang_logo.png"><b>Segang</b></center>
 
 <br><br>
-<center><a href="history.md"><b>회사소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="product.md"><b>제품소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="hr.md"><b>인재영입</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="cs.md"><b>고객지원</b></a></center>
+<center>
+  <a href="history.md"><b>회사소개</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="product.md"><b>제품소개</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="hr.md"><b>인재영입</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="cs.md"><b>고객지원</b></a>
+</center>
 
 
 
