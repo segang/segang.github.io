@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="460" height="300" src="segang_logo.png">
+  <img width="300" height="200" src="segang_logo.png">
 </p>
