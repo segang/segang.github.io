@@ -11,15 +11,15 @@
 <center><a href="history.md"><b>회사소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="product.md"><b>제품소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="hr.md"><b>인재영입</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="cs.md"><b>고객지원</b></a></center>
 
 <br><br><br>
-<a href="a.md">테스트페이지a</a>
+<a href="a.md">A</a>
 <br><br>
-<a href="b.md">테스트페이지b</a>
+<a href="b.md">B</a>
 <br><br>
-<a href="c.md">테스트페이지c</a>
+<a href="c.md">C</a>
 <br><br>
-<a href="d.md">테스트페이지d</a>
+<a href="d.md">D</a>
 <br><br>
-<a href="d.md">테스트페이지e</a>
+<a href="d.md">E</a>
 
 
 <!---<br><br><br><br>
