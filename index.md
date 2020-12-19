@@ -10,8 +10,8 @@
 <br><br>
 <center><a href="history.md"><b>회사소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="product.md"><b>제품소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="hr.md"><b>인재영입</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="cs.md"><b>고객지원</b></a></center>
 
-<br>
-<a href="f.md">F</a>
+
+<a href="g.md">G</a>
 
 
 <!---<br><br><br><br>
