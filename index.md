@@ -10,19 +10,16 @@
 <br><br>
 <center><a href="history.md"><b>회사소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="product.md"><b>제품소개</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="hr.md"><b>인재영입</b></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="cs.md"><b>고객지원</b></a></center>
 
+<br><br><br>
+<a href="a.md">테스트페이지a</a>
 <br><br>
-<a href="a.md"><b>테스트페이지a.md</b></a>
+<a href="b.md">테스트페이지b</a>
 <br><br>
-<a href="b.md"><b>테스트페이지b.md</b></a>
+<a href="c.md">테스트페이지c</a>
 <br><br>
-<a href="c.md"><b>테스트페이지c.md</b></a>
+<a href="d.md">테스트페이지d</a>
 <br><br>
-<a href="d.md"><b>테스트페이지d.md</b></a>
-<br><br>
-<a href="d.md"><b>테스트페이지e.md</b></a>
-<br><br>
-
-[a](a.md) [b](b.md) [c](c.md) [d](d.md) [e](e.md)
+<a href="d.md">테스트페이지e</a>
 
 
 <!---<br><br><br><br>
