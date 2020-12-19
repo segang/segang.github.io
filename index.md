@@ -22,11 +22,7 @@
 <a href="d.md"><b>테스트페이지e.md</b></a>
 <br><br>
 
-[**a**](a.md)
-[**b**](b.md)
-[**c**](c.md)
-[**d**](d.md)
-[**e**](e.md)
+[a](a.md) [b](b.md) [c](c.md) [d](d.md) [e](e.md)
 
 
 <!---<br><br><br><br>
