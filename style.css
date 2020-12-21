@@ -1,0 +1,35 @@
+body {
+  margin:0;
+}
+#top {
+  border : 5px solid red;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+h1 {
+  margin-top: 25%;
+  margin-bottom: 0;
+}
+#middle {
+  border : 5px solid green;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+a {
+  color:black;
+  text-decoration: none;
+}
+#bottom {
+  border : 5px solid blue;
+}
+@media(max-width:800px) {
+  #top {
+    display: block;
+  }
+  #middle {
+    display: inline;
+  }
+  #bottom {
+    display: block;
+  }
+}
