@@ -21,6 +21,7 @@ a {
 }
 #bottom {
   border : 5px solid blue;
+  margin-top: 10px;
 }
 @media(max-width:800px) {
   #top {
