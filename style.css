@@ -2,7 +2,6 @@ body {
   margin:0;
 }
 #top {
-  border : 5px solid red;
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
@@ -11,7 +10,6 @@ h1 {
   margin-bottom: 0;
 }
 #middle {
-  border : 5px solid green;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
@@ -20,17 +18,5 @@ a {
   text-decoration: none;
 }
 #bottom {
-  border : 5px solid blue;
   margin-top: 10px;
-}
-@media(max-width:800px) {
-  #top {
-    display: block;
-  }
-  #middle {
-    display: inline;
-  }
-  #bottom {
-    display: block;
-  }
 }
