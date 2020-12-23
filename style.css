@@ -26,7 +26,7 @@ body {
     background-color: #fff;
     color: black;
     list-style: none;
-    font-size: 40px;
+    font-size: 60px;
     border: none;
     cursor: pointer;
   }
@@ -99,4 +99,7 @@ body {
 .content .story {
   list-style: none;
   font-size: 25px;
+}
+.educationItemList {
+  list-style: none;
 }
