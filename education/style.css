@@ -90,13 +90,6 @@ body {
   position: absolute;
   font-size: 0;
 }
-/*
-.content{
-  background-image: url("orca_img.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-*/
 .content {
   background-color: #F5F5F5;
 }
