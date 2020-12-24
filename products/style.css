@@ -91,11 +91,6 @@ body {
 }
 .content {
   background-color: #F5F5F5;
-}
-.content .story {
-  list-style: none;
-  font-size: 25px;
-}
-.educationItemList {
-  list-style: none;
+  color: green;
+  font-size: 20px;
 }

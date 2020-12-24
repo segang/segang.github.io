@@ -16,50 +16,6 @@ body {
   float: left;
   padding: 10px 0 0 20px;
 }
-.dropbtn {
-  text-decoration: none;
-  display: none;
-}
-@media screen and (max-width:1000px){
-  .dropbtn {
-    display: block;
-    background-color: transparent;
-    color: black;
-    list-style: none;
-    font-size: 60px;
-    border: none;
-    cursor: pointer;
-  }
-  .dropdown {
-      position: relative;
-      float: right;
-      display: inline-block;
-      margin-top: 30px;
-      margin-right: 5%;
-  }
-  .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #fff;
-      z-index: 200;
-      left: auto;
-      right: 0;
-  }
-  .dropdown-content a {
-    color: black;
-    text-decoration: none;
-    display: block;
-  }
-  .dropdown-content a:hover {
-      background-color: #fff;
-  }
-  .dropdown:hover .dropdown-content {
-      display: block;
-  }
-  .dropdown:hover .dropbtn {
-      background-color: #fff;
-  }
-}
 .segangmenu {
   float: right;
   list-style: none;
@@ -67,13 +23,10 @@ body {
 .segangmenu li {
   float: left;
   padding-right: 80px;
-}
-.segangmenu a {
   color: black;
   font-size: 27px;
   padding-top: 15px;
   display: block;
-  text-decoration: none;
 }
 .content {
   margin-top: 200px;
