@@ -78,7 +78,7 @@ body {
 .segangBanner {
   margin-top: 110px;
   height: 523px;
-  background-color: #D5EDED;
+  //background-color: #D5EDED;
   position: relative;
   z-index: 100;
 }
